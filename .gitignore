@@ -73,3 +73,10 @@ AlienAiDemo/Plugins/*/Intermediate/*
 # Cache files for the editor to use
 AlienAiDemo/DerivedDataCache/*
 AlienAIDemo/Content/TPS_Multiplayer_Pack/
+
+# Whitelist only bear enemy animation
+/AlienAiDemo/Content/InfinityBladeAdversaries/*
+!/AlienAiDemo/Content/InfinityBladeAdversaries/Enemy/Enemy_Bear
+# !/AlienAiDemo/Content/InfinityBladeAdversaries/Enemy/Enemy_Bear/
+
+
